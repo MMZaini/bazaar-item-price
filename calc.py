@@ -1,7 +1,12 @@
+#modules - import
+
 from bs4 import BeautifulSoup
 import time
 import requests
 import asyncio
+
+#find website source for item
+
 item = input("What Item Would You Like To Check The Price Of?\n")
 page = requests.get("https://stonks.gg/products/search?input=" + item)
 soup = BeautifulSoup(page.content, 'html.parser')
@@ -17,6 +22,8 @@ for i, x in enumerate(fbfa[:5]):
 1. input amount to spend named amount
 2. amount / price and print answer
 """
+
+#print prices and amount to spend
 
 price = float(fbfa[1].find_all("td")[2].text.split(" ")[0]) + 0.5
 print("Buy price is currently", price, "per", item)
