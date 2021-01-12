@@ -13,8 +13,8 @@ a simple python program which checks and gives the user any bazaar item price
 
     
 # instructions
-1. double click the program
-2. type in the item you would you like to buy
-3. type in the amount of coins you want to spend on it
-4. let the program output the amount of the item you can buy
-5. close the window when needed
+1. Run the program by double clicking
+2. Type in the item you would you like to buy
+3. Type in the amount of coins you want to spend on it
+4. Let the program output the amount of the item you can buy
+5. Close the window when needed
