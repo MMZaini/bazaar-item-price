@@ -13,6 +13,8 @@ a simple python program which checks and gives the user any the item price for a
 5. Type in the amount of coins you would like to spend on it
 6. The program will proceed to output the amount of the selected item you can buy
 
+--If you encounter any problems please report them at https://github.com/MMZaini/bazaar-item-price/issues
+
 # requirements - python version
 - Have python installed
     downloadable for free at https://www.python.org/downloads/
@@ -31,3 +33,5 @@ a simple python program which checks and gives the user any the item price for a
 4. Type in the item name you would you like to check the price of
 5. Type in the amount of coins you would like to spend on it
 6. The program will proceed to output the amount of the selected item you can buy
+
+--If you encounter any problems please report them at https://github.com/MMZaini/bazaar-item-price/issues
