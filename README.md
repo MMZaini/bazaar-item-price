@@ -31,7 +31,3 @@ a simple python program which checks and gives the user any the item price for a
 4. Type in the item name you would you like to check the price of
 5. Type in the amount of coins you would like to spend on it
 6. The program will proceed to output the amount of the selected item you can buy
-
-
-Bazaar Calculator. A python program (also converted to exe) which checks and gives the user any the item price for anything on the Minecraft hypixel skyblock bazaar
-    Copyright (C) 2021  Mahdi Zaini
