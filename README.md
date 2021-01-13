@@ -1,18 +1,17 @@
-# bazaar-item-price
-a simple python program which checks and gives the user any bazaar item price
+# bazaar item price checker for Minecraft, hypixel skyblock
+a simple python program which checks and gives the user any the item price for anything on the Minecraft hypixel skyblock bazaar
 
 # requirements - zipped exe version
-- Unziper program to unzip the exe
+- Any unziper program to unzip the exe (you can get winrar for free at https://www.win-rar.com/download.html?&L=0)
 
 # Instructions - exe version
     after installing the whole thing by clicking https://github.com/MMZaini/bazaar-item-price/archive/main.zip
-1. Unzip the "exe version" folder
+1. Unzip the "exe version" folder (you can delete the "python version" folder if you won't be using it)
 2. Locate "Bazaar Calculator.exe"
 3. Run the program by double clicking
-4. Type in the item you would you like to buy
-5. Type in the amount of coins you want to spend on it
-6. Let the program output the amount of the item you can buy
-7. Close the window when needed
+4. Type in the item name you would you like to check the price of
+5. Type in the amount of coins you would like to spend on it
+6. The program will proceed to output the amount of the selected item you can buy
 
 # requirements - python version
 - Have python installed
@@ -26,8 +25,9 @@ a simple python program which checks and gives the user any bazaar item price
 
 # Instructions - python version
     after installing the whole thing by clicking https://github.com/MMZaini/bazaar-item-price/archive/main.zip
-1. Locate and run the python program by double clicking
-2. Type in the item you would you like to buy
-3. Type in the amount of coins you want to spend on it
-4. Let the program output the amount of the item you can buy
-5. Close the window when needed
+1. Find the "python version" folder (you can delete the "exe version" zip if you won't be using it)
+2. Locate "Bazaar Calculator.exe"
+3. Run the python program by double clicking or editing in idle and running it
+4. Type in the item name you would you like to check the price of
+5. Type in the amount of coins you would like to spend on it
+6. The program will proceed to output the amount of the selected item you can buy
