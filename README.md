@@ -2,7 +2,7 @@
 a simple python program which checks and gives the user any the item price for anything on the Minecraft hypixel skyblock bazaar
 
 # requirements - zipped exe version
-- Any unziper program to unzip the exe (I'd recommend winrar which you can install for free at https://www.win-rar.com/download.html?&L=0)
+- Any unziper program to unzip the exe (I'd recommend using WinRAR which you can install for free at https://www.win-rar.com/download.html?&L=0)
 
 # Instructions - exe version
     after installing the whole thing by clicking https://github.com/MMZaini/bazaar-item-price/archive/main.zip
