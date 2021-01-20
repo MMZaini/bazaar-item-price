@@ -1,4 +1,5 @@
-# bazaar item price checker for Minecraft, hypixel skyblock - a simple python program which checks and gives the user any the item price for anything on the Minecraft hypixel skyblock bazaar
+# bazaar item price checker for Minecraft, hypixel skyblock
+ - a simple python program which checks and gives the user any the item price for anything on the Minecraft hypixel skyblock bazaar
 
 -- If you encounter any problems please report them at https://github.com/MMZaini/bazaar-item-price/issues --
 
