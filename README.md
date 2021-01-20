@@ -14,7 +14,7 @@
     run 'pip install asyncio' in cmd (without the ' obviously)
 
 # Instructions
-    after installing the whole thing by clicking https://github.com/MMZaini/bazaar-item-price/archive/main.zip
+    after installing the whole thing by going to https://github.com/MMZaini/bazaar-item-price/archive/main.zip
 1. Find the "python version" folder (you can delete the "exe version" zip if you won't be using it)
 2. Locate "Bazaar Calculator.exe"
 3. Run the python program by double clicking or editing in idle and running it
