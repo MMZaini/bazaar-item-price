@@ -16,9 +16,7 @@ fbfa = bfa.find_all("tr")
 """
 for i, x in enumerate(fbfa[:5]):
     print(i, x)
-"""
-
-"""
+    
 1. input amount to spend named amount
 2. amount / price and print answer
 """
@@ -37,6 +35,8 @@ if amo == 1:
     print("Purchase", amo, item)
 if amo < 1:
     print("You don't have enough to buy any", item + s)
+
+time.sleep(2)
 
 #license
 
