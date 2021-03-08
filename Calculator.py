@@ -3,7 +3,6 @@
 from bs4 import BeautifulSoup
 import time
 import requests
-import asyncio
 
 #find website source for item
 
@@ -39,13 +38,10 @@ if amo < 1:
 time.sleep(2)
 
 #license
-
-print("Bazaar Calculator  Copyright (C) 2021  Mahdi Zaini This program comes with ABSOLUTELY NO WARRANTY; for details check LICENSE in included download folder. This is free software, and you are welcome to redistribute it under certain conditions; Also check LICENSE included in download folder for details on conditions.")
-
-# loop
-
-loop = asyncio.get_event_loop()
-try:
-    loop.run_forever()
-finally:
-    loop.close()
+lic = input("Would you like a copy of this programs license? y or n")
+if lic == "y":
+ print("Bazaar Calculator  Copyright (C) 2021  Mahdi Zaini This program comes with ABSOLUTELY NO WARRANTY; for details check LICENSE in included download folder. This is free software, and you are welcome to redistribute it under certain conditions; Also check LICENSE included in download folder for details on conditions.")
+else:
+  input("Press enter 3x to exit program")
+  input("Press enter 2x to exit program")
+  input("Press enter 1x to exit program")
