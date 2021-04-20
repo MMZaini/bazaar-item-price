@@ -10,9 +10,7 @@
     run 'pip install bs4' in cmd (without the ' obviously)
 - Have requests installed.
     run 'pip install requests' in cmd (without the ' obviously)
-- Have asyncio installed.
-    run 'pip install asyncio' in cmd (without the ' obviously)
-
+    
 # Instructions
     after installing the whole thing by going to https://github.com/MMZaini/bazaar-item-price/archive/main.zip
 1. Find and unzip the "bazaar-item-price.zip" (you can delete the zip after its been extracted into a folder if you won't be using it)
