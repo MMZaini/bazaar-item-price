@@ -23,7 +23,7 @@ for i, x in enumerate(fbfa[:5]):
 #print prices and amount to spend
 
 price = float(fbfa[1].find_all("td")[2].text.split(" ")[0]) + 0.2
-print("Buy price is currently", price, "per", item)
+print("Buy price is currently", float(price), "per", item)
 time.sleep(1)
 amount = float(input("How much would you like to spend?\n"))
 amo = amount // price
